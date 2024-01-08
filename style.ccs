@@ -3,4 +3,6 @@ color:red
 front-size:25px
 }
 
-
+body {
+style="font-family:sans-serif
+}
