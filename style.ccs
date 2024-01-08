@@ -1,12 +1,12 @@
 p {
-color:red
-front-size:25px
+color:red;
+front-size:25px;
 }
 
 body {
-style="font-family:sans-serif
+font-family:sans-serif;
 }
 
 h1 {
- tyle="text-align: center
+ text-align: center;
 }
